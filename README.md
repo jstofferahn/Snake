@@ -1,0 +1,2 @@
+# Snake
+Jquery snake game
